@@ -1,8 +1,3 @@
-PermissionsEXSquish
-===================
-
-This is for Squishbum
-
 groups:
   Newb:
     default: true
@@ -232,6 +227,6 @@ groups:
       build: true
       suffix: ''
 users:
-  squishbum:
+  PizzaBrawler:
     group:
     - Owner
